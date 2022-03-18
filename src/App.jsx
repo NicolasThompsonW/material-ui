@@ -100,7 +100,9 @@ const App = () => {
       </main>
       <footer className={classes.footer}>
         <Typography variant="h6">&copy; Nicolás Thompson</Typography>
-        <Typography variant="subtitle1">Footer</Typography>
+        <Typography variant="subtitle1">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, est.{" "}
+        </Typography>
       </footer>
     </>
   );
